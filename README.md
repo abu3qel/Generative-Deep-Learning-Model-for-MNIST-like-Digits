@@ -1,10 +1,6 @@
 # Generative-Deep-Learning-Model-for-MNIST-like-Digits
 A deep learning project for generating handwritten digits using Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs). Trained on MNIST, this repository includes optimized architectures, KL annealing, mixed precision, and benchmarking insights. GAN achieves 88% image acceptability.
 
-# 🧠 Generative Deep Learning on MNIST Digits
-
-This project explores two generative deep learning models — **Variational Autoencoder (VAE)** and **Generative Adversarial Network (GAN)** — for synthesizing realistic MNIST-style handwritten digits. It focuses on model stability, quality of output, and architecture optimization.
-
 ---
 
 ## 📌 Project Highlights
